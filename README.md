@@ -39,16 +39,26 @@ I contributed to system enhancement, bug fixing, workflow logic, UI improvements
 - Support inspection workflows  
 - Enable notification-based tracking  
 
-### 🛠️ Key Contributions
-- Created an OutSystems guideline for future interns  
-- Documented client actions, server actions, and flows  
+### 🛠️ Key Contributions (OutSystems)
+- ✅ **Performed full migration of AATLAS from Power Apps to OutSystems**
+- Created AATLAS OutSystems guideline for future interns  
+- Documented client actions, server actions, and system flows  
 - Troubleshot file preview issues  
 - Improved workflow usability  
+- Implemented features without relying on Power Platform after migration  
 
-### ⚡ Automation Side
-- Integrated with Power Apps & Power Automate  
-- Enabled automated emails and notifications  
-- Helped staff prioritize tasks through alerts  
+### ⚡ Power Apps & Automation Contributions
+Before migration, AATLAS operated using Power Apps + Power Automate:
+
+- Built and improved AATLAS Power Apps functions  
+- Implemented **Extend Due Date feature** logic  
+- Connected Power Apps with Power Automate for:
+  - Email notifications  
+  - Task alerts  
+  - Priority tracking  
+- Ensured smooth workflow between Power Apps and Automate  
+
+👉 After migration to OutSystems, these processes no longer required Power Platform dependencies.
 
 ---
 
@@ -71,26 +81,24 @@ I contributed to system enhancement, bug fixing, workflow logic, UI improvements
 
 # 📸 System Screenshots
 
-*(Add your screenshots inside a `/screenshots` folder in your repo and link them like below)*
-
 ### CORE Module
 <p float="left">
-  <img src="assets/COREMainpage.png" width="200" alt="Signup">
-  <img src="assets/COREEdit.png" width="200" alt="Login">
-  <img src="assets/COREView.png" width="200" alt="Main Page">
+  <img src="assets/COREMainpage.png" width="200">
+  <img src="assets/COREEdit.png" width="200">
+  <img src="assets/COREView.png" width="200">
 </p>
 
 ### AATLAS Module
 <p float="left">
-  <img src="assets/AATLASMainpage.png" width="200" alt="Signup">
-  <img src="assets/AATLASAddActionItem.png" width="200" alt="Login">
-  <img src="assets/AATLASApproval.png" width="200" alt="Main Page">
+  <img src="assets/AATLASMainpage.png" width="200">
+  <img src="assets/AATLASAddActionItem.png" width="200">
+  <img src="assets/AATLASApproval.png" width="200">
 </p>
 
 ### TRACE Module
 <p float="left">
-  <img src="assets/TRACEMainpage.png" width="200" alt="Signup">
-  <img src="assets/TRACEEdit.png" width="200" alt="Login">
+  <img src="assets/TRACEMainpage.png" width="200">
+  <img src="assets/TRACEEdit.png" width="200">
 </p>
 
 ---
@@ -113,7 +121,8 @@ I contributed to system enhancement, bug fixing, workflow logic, UI improvements
 
 To ensure continuity for future interns:
 
-- 📘 Created AATLAS,CORE and TRACE system guidelines (OutSystems & Power Apps(For AATLAS))  
+- 📘 Created AATLAS and CORE guidelines  
+- 📘 Covered both OutSystems and Power Apps (for legacy AATLAS)  
 - 🧭 Documented system purposes and flows  
 - 🤝 Helped onboarding become smoother  
 
@@ -124,6 +133,7 @@ To ensure continuity for future interns:
 # 🛠️ Skills Demonstrated
 
 - Low-code Development (OutSystems)  
+- Microsoft Power Apps & Power Automate  
 - Workflow Logic Design  
 - Debugging & Troubleshooting  
 - Technical Documentation  
