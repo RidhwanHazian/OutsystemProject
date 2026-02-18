@@ -1,11 +1,11 @@
 # VISTA – Visibility into Inspection Scheduling, Tracking & Assurance
 
 ## Overview
-VISTA (Visibility into Inspection Scheduling, Tracking & Assurance) is a suite of internal systems developed using the OutSystems low-code platform to support inspection-related operations, task tracking, and workflow automation.  
+VISTA (Visibility into Inspection Scheduling, Tracking & Assurance) is a suite of internal systems developed using the OutSystems low-code platform to support inspection-related operations, task tracking, and workflow automation.
 
-The ecosystem consists of three main modules: **CORE, AATLAS, and TRACE**, each serving a different operational purpose but working together to improve visibility, coordination, and reporting of inspection and maintenance activities.
+The ecosystem consists of three main modules: CORE, AATLAS, and TRACE, each serving different operational purposes but working together to improve visibility, coordination, and reporting of inspection and maintenance activities.
 
-This project was enhanced and maintained during my internship, where I contributed to feature improvements, bug fixing, workflow logic, UI adjustments, and documentation for future interns.
+During my internship at MRCSB, my primary project was contributing to the enhancement and maintenance of the VISTA ecosystem. I worked on feature improvements, bug fixing, workflow logic, UI adjustments, and system documentation to support ongoing operations and future interns.
 
 ---
 
