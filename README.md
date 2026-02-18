@@ -10,6 +10,34 @@ The ecosystem consists of three integrated modules — **CORE, AATLAS, and TRACE
 💼 During my internship at **Malaysian Refining Company Sdn Bhd (MRCSB)**, VISTA was my primary project.  
 I contributed to system enhancement, bug fixing, workflow logic, UI improvements, and documentation to support ongoing operations and future interns.
 
+CORE and TRACE were originally developed by senior interns **Khamsa Athiirah** and **Andek Nurul Harisya**, who built the initial foundations.  
+After their internship ended, I continued the development and improvements together with fellow intern **Wan Qistina**.
+
+Wan Qistina contributed mainly to UI improvements, while I focused more on **system logic, workflows, and backend behavior**.
+
+AATLAS, however, involved a full migration effort that I handled.
+
+---
+
+# 🔐 Authentication & Access Control
+
+VISTA does **not use a traditional sign-up or sign-in page** inside the application.
+
+Instead:
+
+- Authentication is handled through the company’s secure enterprise login system (Microsoft-based SSO)  
+- Users access VISTA using their company email and credentials  
+- Login validation is managed at the server/identity provider level  
+
+### Admin Access Management
+VISTA includes an internal **Access Management admin module** where:
+
+- Users must be manually registered  
+- Roles and permissions are controlled  
+- Only authorized staff can access specific functions  
+
+✅ This approach improves security and ensures controlled system access.
+
 ---
 
 # 🧩 Modules
@@ -19,15 +47,22 @@ I contributed to system enhancement, bug fixing, workflow logic, UI improvements
 ## 🔹 CORE  
 ### *Coordination of Inspection Operations for Reliable Execution*
 
+> CORE foundation was built by senior interns.  
+> My role focused on deeper improvements, enhancements, and maintenance.
+
 ### 📌 Purpose
 - Manage inspection activities and records  
 - Update task details and statuses  
 - Provide structured tracking for ongoing work  
 
-### 🛠️ Key Contributions
-- Improved activity editing flows  
-- Helped refine status logic for clearer tracking  
+### 🛠️ My Contributions
+- Deep improvements on **Edit Activity popup logic**
+- Enhanced status handling and tracking flows  
+- Improved dashboard filtering and visibility  
+- Fixed workflow issues and logic inconsistencies  
 - Participated in workflow and status design discussions  
+
+👉 CORE is where I contributed the most technically and dove deeper into system logic.
 
 ---
 
@@ -39,43 +74,47 @@ I contributed to system enhancement, bug fixing, workflow logic, UI improvements
 - Support inspection workflows  
 - Enable notification-based tracking  
 
-### 🛠️ Key Contributions (OutSystems)
+### 🛠️ Key Contributions (Major Project)
 - ✅ **Performed full migration of AATLAS from Power Apps to OutSystems**
+- Rebuilt features natively in OutSystems  
 - Created AATLAS OutSystems guideline for future interns  
-- Documented client actions, server actions, and system flows  
+- Documented client actions, server actions, and flows  
 - Troubleshot file preview issues  
 - Improved workflow usability  
-- Implemented features without relying on Power Platform after migration  
+- Removed dependency on Power Platform after migration  
 
-### ⚡ Power Apps & Automation Contributions
+### ⚡ Power Apps & Automation Contributions (Legacy)
 Before migration, AATLAS operated using Power Apps + Power Automate:
 
-- Built and improved AATLAS Power Apps functions  
-- Implemented **Extend Due Date feature** logic  
-- Connected Power Apps with Power Automate for:
+- Built and improved Power Apps features  
+- Implemented **Extend Due Date** logic  
+- Connected Power Apps to Power Automate for:
   - Email notifications  
   - Task alerts  
   - Priority tracking  
-- Ensured smooth workflow between Power Apps and Automate  
 
-👉 After migration to OutSystems, these processes no longer required Power Platform dependencies.
+👉 After migration, OutSystems handled these processes natively.
 
 ---
 
 ## 🔹 TRACE  
 ### *Track Inspection Rectification Actions & Closure Events*
 
+> TRACE foundation was built by senior interns.  
+> My work focused on improvements and fixes.
+
 ### 📌 Purpose
 - Track inspection findings  
 - Monitor task progress via statuses  
 - Improve traceability of issues and actions  
 
-### 🛠️ Key Contributions
-- Fixed server actions to update instead of duplicate records  
+### 🛠️ My Contributions
+- Fixed server actions to prevent duplicate records  
 - Corrected accordion logic using local variable IDs  
 - Linked findings correctly to task IDs  
-- Contributed to status design discussions  
+- Supported status design discussions  
 - Suggested UI improvements  
+- Performed system stabilization and enhancements  
 
 ---
 
@@ -113,20 +152,20 @@ Before migration, AATLAS operated using Power Apps + Power Automate:
 - Supporting UI improvements  
 - Creating documentation & guidelines  
 - Assisting automation configurations  
-- Testing & troubleshooting system behavior  
+- Testing and troubleshooting  
 
 ---
 
 # 📚 Documentation & Knowledge Transfer
 
-To ensure continuity for future interns:
+To support future interns:
 
-- 📘 Created AATLAS and CORE guidelines  
-- 📘 Covered both OutSystems and Power Apps (for legacy AATLAS)  
+- 📘 Created AATLAS & CORE guidelines  
+- 📘 Covered both OutSystems and legacy Power Apps  
 - 🧭 Documented system purposes and flows  
-- 🤝 Helped onboarding become smoother  
+- 🤝 Improved onboarding clarity  
 
-**Focus:** Explaining *what the system does and why it exists* (not teaching OutSystems itself).
+Focus was on **what the system does and why**, not teaching OutSystems itself.
 
 ---
 
@@ -137,7 +176,7 @@ To ensure continuity for future interns:
 - Workflow Logic Design  
 - Debugging & Troubleshooting  
 - Technical Documentation  
-- Automation Integration Concepts  
+- Automation Integration  
 - UI/UX Awareness  
 - Team Collaboration  
 
@@ -146,13 +185,14 @@ To ensure continuity for future interns:
 # 📈 Impact
 
 ✨ VISTA improves:
+
 - Inspection visibility  
 - Task tracking  
 - Reporting clarity  
 - Workflow efficiency  
 - Team awareness via notifications  
 
-My work helped stabilize features, improve maintainability, and support knowledge transfer.
+My contributions helped stabilize features, improve maintainability, and support future knowledge transfer.
 
 ---
 
@@ -166,12 +206,12 @@ My work helped stabilize features, improve maintainability, and support knowledg
 
 # 💡 Reflection
 
-Working on VISTA gave me real-world exposure to:
+Working on VISTA provided exposure to:
 
 - Enterprise system environments  
-- Live operational systems  
+- Real operational systems  
 - Cross-team collaboration  
-- Managing technical + documentation tasks  
+- Balancing technical and documentation tasks  
 
 This experience strengthened both my **technical** and **professional** skills beyond academic learning.
 
