@@ -10,7 +10,7 @@ The ecosystem consists of three integrated modules — **CORE, AATLAS, and TRACE
 💼 During my internship at **Malaysian Refining Company Sdn Bhd (MRCSB)**, VISTA was my primary project.  
 I contributed to system enhancement, bug fixing, workflow logic, UI improvements, and documentation to support ongoing operations and future interns.
 
-CORE and TRACE were originally developed by senior interns **Khamsa Athiirah** and **Andek Nurul Harisya**, who built the initial foundations.  
+CORE and TRACE were originally developed by senior interns **Khamsa Athirah** and **Andek Nurul Harisya**, who built the initial foundations.  
 After their internship ended, I continued the development and improvements together with fellow intern **Wan Qistina**.
 
 Wan Qistina contributed mainly to UI improvements, while I focused more on **system logic, workflows, and backend behavior**.
