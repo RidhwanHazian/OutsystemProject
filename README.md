@@ -83,7 +83,7 @@ I contributed to system enhancement, bug fixing, workflow logic, UI improvements
 ### AATLAS Module
 <p float="left">
   <img src="assets/AATLASMainpage.png" width="200" alt="Signup">
-  <img src="assets/AddActionitem.png" width="200" alt="Login">
+  <img src="assets/AATLASAddActionItem.png" width="200" alt="Login">
   <img src="assets/AATLASApproval.png" width="200" alt="Main Page">
 </p>
 
