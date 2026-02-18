@@ -74,13 +74,24 @@ I contributed to system enhancement, bug fixing, workflow logic, UI improvements
 *(Add your screenshots inside a `/screenshots` folder in your repo and link them like below)*
 
 ### CORE Module
-![CORE Screenshot](screenshots/core.png)
+<p float="left">
+  <img src="assets/COREMainpage.png" width="200" alt="Signup">
+  <img src="assets/COREEdit.png" width="200" alt="Login">
+  <img src="assets/COREView.png" width="200" alt="Main Page">
+</p>
 
 ### AATLAS Module
-![AATLAS Screenshot](screenshots/aatlas.png)
+<p float="left">
+  <img src="assets/AATLASMainpage.png" width="200" alt="Signup">
+  <img src="assets/AddActionitem.png" width="200" alt="Login">
+  <img src="assets/AATLASApproval.png" width="200" alt="Main Page">
+</p>
 
 ### TRACE Module
-![TRACE Screenshot](screenshots/trace.png)
+<p float="left">
+  <img src="assets/TRACEMainpage.png" width="200" alt="Signup">
+  <img src="assets/TRACEEdit.png" width="200" alt="Login">
+</p>
 
 ---
 
