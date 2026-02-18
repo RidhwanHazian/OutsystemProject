@@ -69,6 +69,21 @@ I contributed to system enhancement, bug fixing, workflow logic, UI improvements
 
 ---
 
+# 📸 System Screenshots
+
+*(Add your screenshots inside a `/screenshots` folder in your repo and link them like below)*
+
+### CORE Module
+![CORE Screenshot](screenshots/core.png)
+
+### AATLAS Module
+![AATLAS Screenshot](screenshots/aatlas.png)
+
+### TRACE Module
+![TRACE Screenshot](screenshots/trace.png)
+
+---
+
 # 👨‍💻 My Role
 
 🎯 **Position:** Intern Low-Code Developer & System Contributor  
@@ -122,11 +137,9 @@ My work helped stabilize features, improve maintainability, and support knowledg
 
 # 📄 Project Report
 
-📥 **Internship Technical Report**  
-You can download my full documentation here on the file named :
+📥 **Internship Technical Report**
 
-👉 **Report Outsystem**  
-
+👉 [Download Report Outsystem (PDF)](https://raw.githubusercontent.com/RidhwanHazian/OutsystemProject/main/Report%20Outsystem.pdf)
 
 ---
 
