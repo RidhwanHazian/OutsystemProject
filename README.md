@@ -11,7 +11,7 @@ This project was enhanced and maintained during my internship, where I contribut
 
 ## Modules
 
-### 1. CORE
+### 1. CORE - Coordination of Inspection Operations for Reliable Execution
 CORE is the central module for managing and editing inspection activities.
 
 **Purpose**
@@ -26,7 +26,7 @@ CORE is the central module for managing and editing inspection activities.
 
 ---
 
-### 2. AATLAS
+### 2. AATLAS - AIMD Action Tracking List & Assurance System
 AATLAS focuses on inspection data handling, reporting, and workflow automation.
 
 **Purpose**
@@ -47,7 +47,7 @@ AATLAS focuses on inspection data handling, reporting, and workflow automation.
 
 ---
 
-### 3. TRACE
+### 3. TRACE - Track Inspection Rectification Actions & Closure Events
 TRACE is used for findings tracking and task progress monitoring.
 
 **Purpose**
