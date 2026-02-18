@@ -1,127 +1,150 @@
-# VISTA – Visibility into Inspection Scheduling, Tracking & Assurance
-
-## Overview
-VISTA (Visibility into Inspection Scheduling, Tracking & Assurance) is a suite of internal systems developed using the OutSystems low-code platform to support inspection-related operations, task tracking, and workflow automation.
-
-The ecosystem consists of three main modules: CORE, AATLAS, and TRACE, each serving different operational purposes but working together to improve visibility, coordination, and reporting of inspection and maintenance activities.
-
-During my internship at MRCSB, my primary project was contributing to the enhancement and maintenance of the VISTA ecosystem. I worked on feature improvements, bug fixing, workflow logic, UI adjustments, and system documentation to support ongoing operations and future interns.
+# 🚀 VISTA – Visibility into Inspection Scheduling, Tracking & Assurance
 
 ---
 
-## Modules
+## 🌟 Overview
+**VISTA (Visibility into Inspection Scheduling, Tracking & Assurance)** is a suite of internal systems built using the OutSystems low-code platform to support inspection operations, task tracking, and workflow automation.
 
-### 1. CORE - Coordination of Inspection Operations for Reliable Execution
-CORE is the central module for managing and editing inspection activities.
+The ecosystem consists of three integrated modules — **CORE, AATLAS, and TRACE** — working together to improve visibility, coordination, and reporting of inspection and maintenance activities.
 
-**Purpose**
+💼 During my internship at **Malaysian Refining Company Sdn Bhd (MRCSB)**, VISTA was my primary project.  
+I contributed to system enhancement, bug fixing, workflow logic, UI improvements, and documentation to support ongoing operations and future interns.
+
+---
+
+# 🧩 Modules
+
+---
+
+## 🔹 CORE  
+### *Coordination of Inspection Operations for Reliable Execution*
+
+### 📌 Purpose
 - Manage inspection activities and records  
 - Update task details and statuses  
 - Provide structured tracking for ongoing work  
 
-**Key Contributions**
-- Assisted in improving activity editing flows  
-- Helped align status logic for better tracking  
-- Supported discussions on status design and workflow improvements  
+### 🛠️ Key Contributions
+- Improved activity editing flows  
+- Helped refine status logic for clearer tracking  
+- Participated in workflow and status design discussions  
 
 ---
 
-### 2. AATLAS - AIMD Action Tracking List & Assurance System
-AATLAS focuses on inspection data handling, reporting, and workflow automation.
+## 🔹 AATLAS  
+### *AIMD Action Tracking List & Assurance System*
 
-**Purpose**
-- Support inspection-related processes  
-- Store and manage inspection records  
-- Integrate with automation tools for notifications  
+### 📌 Purpose
+- Handle inspection data and records  
+- Support inspection workflows  
+- Enable notification-based tracking  
 
-**Key Contributions**
-- Created an OutSystems guideline for AATLAS to help future interns understand system purpose and functions  
-- Documented client actions, server actions, and system flows at a high level  
-- Worked on issue troubleshooting related to file preview and testing modules  
-- Helped ensure smoother workflows and usability  
+### 🛠️ Key Contributions
+- Created an OutSystems guideline for future interns  
+- Documented client actions, server actions, and flows  
+- Troubleshot file preview issues  
+- Improved workflow usability  
 
-**Automation Side**
-- AATLAS also integrates with Power Apps and Power Automate  
-- Supports automated emails and notifications  
-- Helps staff prioritize tasks through alerts and tracking  
+### ⚡ Automation Side
+- Integrated with Power Apps & Power Automate  
+- Enabled automated emails and notifications  
+- Helped staff prioritize tasks through alerts  
 
 ---
 
-### 3. TRACE - Track Inspection Rectification Actions & Closure Events
-TRACE is used for findings tracking and task progress monitoring.
+## 🔹 TRACE  
+### *Track Inspection Rectification Actions & Closure Events*
 
-**Purpose**
-- Track findings related to inspections  
-- Monitor task progress through statuses  
+### 📌 Purpose
+- Track inspection findings  
+- Monitor task progress via statuses  
 - Improve traceability of issues and actions  
 
-**Key Contributions**
-- Fixed server action logic to update records instead of creating duplicates  
-- Improved accordion logic to correctly use IDs from local variables  
-- Ensured findings creation links correctly to task IDs  
-- Participated in discussions on status design for better tracking  
-- Verified that TRACE functions as intended while suggesting UI improvements  
+### 🛠️ Key Contributions
+- Fixed server actions to update instead of duplicate records  
+- Corrected accordion logic using local variable IDs  
+- Linked findings correctly to task IDs  
+- Contributed to status design discussions  
+- Suggested UI improvements  
 
 ---
 
-## My Role
-During my internship, I worked as a low-code developer and system contributor.
+# 👨‍💻 My Role
 
-**Responsibilities included:**
+🎯 **Position:** Intern Low-Code Developer & System Contributor  
+
+### ✅ Responsibilities
 - Enhancing system logic  
-- Fixing workflow and server action issues  
+- Debugging workflow/server action issues  
 - Supporting UI improvements  
-- Creating system guidelines and documentation  
-- Assisting in automation-related configurations  
-- Testing and troubleshooting system behavior  
+- Creating documentation & guidelines  
+- Assisting automation configurations  
+- Testing & troubleshooting system behavior  
 
 ---
 
-## Documentation & Knowledge Transfer
-To support continuity:
-- Created system guidelines for AATLAS (OutSystems & Power Apps versions)  
-- Documented system purpose, flows, and functions  
-- Helped make onboarding easier for future interns  
+# 📚 Documentation & Knowledge Transfer
 
-These guidelines focus on **what the system does and why**, not how to learn OutSystems itself.
+To ensure continuity for future interns:
 
----
+- 📘 Created AATLAS system guidelines (OutSystems & Power Apps)  
+- 🧭 Documented system purposes and flows  
+- 🤝 Helped onboarding become smoother  
 
-## Skills Demonstrated
-- Low-code development (OutSystems)  
-- Workflow logic design  
-- Debugging and troubleshooting  
-- System documentation  
-- Automation integration concepts  
-- UI/UX improvement awareness  
-- Collaboration with supervisors and teams  
+**Focus:** Explaining *what the system does and why it exists* (not teaching OutSystems itself).
 
 ---
 
-## Impact
-VISTA helps improve:
+# 🛠️ Skills Demonstrated
+
+- Low-code Development (OutSystems)  
+- Workflow Logic Design  
+- Debugging & Troubleshooting  
+- Technical Documentation  
+- Automation Integration Concepts  
+- UI/UX Awareness  
+- Team Collaboration  
+
+---
+
+# 📈 Impact
+
+✨ VISTA improves:
 - Inspection visibility  
 - Task tracking  
 - Reporting clarity  
 - Workflow efficiency  
-- Team awareness through notifications  
+- Team awareness via notifications  
 
-My contributions helped stabilize features, improve maintainability, and support future knowledge transfer.
+My work helped stabilize features, improve maintainability, and support knowledge transfer.
 
 ---
 
-## Reflection
-Working on VISTA provided real-world experience in:
+# 📄 Project Report
+
+📥 **Internship Technical Report**  
+You can download my full documentation here on the file named :
+
+👉 **Report Outsystem**  
+
+
+---
+
+# 💡 Reflection
+
+Working on VISTA gave me real-world exposure to:
+
 - Enterprise system environments  
-- Handling live operational systems  
-- Coordinating with supervisors and teams  
-- Managing technical and documentation tasks simultaneously  
+- Live operational systems  
+- Cross-team collaboration  
+- Managing technical + documentation tasks  
 
-It strengthened both my technical and professional skills and gave me practical exposure beyond academic projects.
+This experience strengthened both my **technical** and **professional** skills beyond academic learning.
 
 ---
 
-## Author
+# 👤 Author
+
 **Muhammad Ridhwan bin Hazian**  
 Diploma in Computer Science  
 Intern Developer (OutSystems & Automation)  
