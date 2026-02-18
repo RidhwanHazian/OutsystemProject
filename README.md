@@ -113,7 +113,7 @@ I contributed to system enhancement, bug fixing, workflow logic, UI improvements
 
 To ensure continuity for future interns:
 
-- 📘 Created AATLAS system guidelines (OutSystems & Power Apps)  
+- 📘 Created AATLAS,CORE and TRACE system guidelines (OutSystems & Power Apps(For AATLAS))  
 - 🧭 Documented system purposes and flows  
 - 🤝 Helped onboarding become smoother  
 
