@@ -160,7 +160,7 @@ My work helped stabilize features, improve maintainability, and support knowledg
 
 📥 **Internship Technical Report**
 
-👉 [Download Report Outsystem (PDF)](https://raw.githubusercontent.com/RidhwanHazian/OutsystemProject/main/Report%20Outsystem.pdf)
+👉 [Download Report Outsystem (PDF)](https://raw.githubusercontent.com/RidhwanHazian/OutsystemProject/main/Report%20Outsystem%20Practical%20Training.pdf)
 
 ---
 
