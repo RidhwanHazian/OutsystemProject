@@ -124,5 +124,5 @@ It strengthened both my technical and professional skills and gave me practical 
 ## Author
 **Muhammad Ridhwan bin Hazian**  
 Diploma in Computer Science  
-Intern Developer (OutSystems & Automation)
-Internship at Malaysian Refining Company Sdn Bhd(MRCSB)
+Intern Developer (OutSystems & Automation)  
+Internship at Malaysian Refining Company Sdn Bhd (MRCSB)
