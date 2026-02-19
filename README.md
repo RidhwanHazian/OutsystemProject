@@ -7,7 +7,7 @@
 
 The ecosystem consists of three integrated modules — **CORE, AATLAS, and TRACE** — working together to improve visibility, coordination, and reporting of inspection and maintenance activities.
 
-💼 During my internship at **Malaysian Refining Company Sdn Bhd (MRCSB)**, VISTA was my primary project.  
+💼 During my internship at Malaysian Refining Company Sdn Bhd (MRCSB), VISTA was my primary project.  
 I contributed to system enhancement, bug fixing, workflow logic, UI improvements, and documentation to support ongoing operations and future interns.
 
 CORE and TRACE were originally developed by senior interns **Khamsa Athirah** and **Andek Nurul Harisya**, who built the initial foundations.  
@@ -16,6 +16,25 @@ After their internship ended, I continued the development and improvements toget
 Wan Qistina contributed mainly to UI improvements, while I focused more on **system logic, workflows, and backend behavior**.
 
 AATLAS, however, involved a full migration effort that I handled.
+
+---
+
+# 🔒 System Availability & Confidentiality
+
+VISTA is an **internal enterprise system** developed under PETRONAS operational policies.  
+
+Due to company security and confidentiality regulations:
+
+- ❌ The OutSystems application cannot be shared publicly  
+- ❌ No downloadable app or live demo is available  
+- ❌ Source code cannot be exposed  
+
+What is provided in this repository:
+- 📄 My official internship technical report  
+- 📝 System description and documentation  
+- 📸 Screenshots (non-sensitive views only)  
+
+This ensures compliance with company data protection and internal IT policies.
 
 ---
 
