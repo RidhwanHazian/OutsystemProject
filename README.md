@@ -25,9 +25,9 @@ VISTA is an **internal enterprise system** developed under PETRONAS operational 
 
 Due to company security and confidentiality regulations:
 
-- ❌ The OutSystems application cannot be shared publicly  
-- ❌ No downloadable app is available  
-- ❌ Source code cannot be exposed  
+- ❌ The application is not publicly downloadable  
+- ❌ Source code cannot be shared  
+- ❌ Full system access is restricted to authorized company users
 
 What is provided in this repository:
 - 📄 My official internship technical report  
